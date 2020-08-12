@@ -1,5 +1,5 @@
 # simple-golang-docker-multistage
-Simplest possible Golang Docker Multistage Hello World example
+Simplest possible Golang Docker Multistage with Hello World application waiting for Enter key to exit.
 
 
 ```
@@ -38,5 +38,5 @@ hello world
 
 ```
 > docker images
-gdm                   latest              d01edc30ed73        4 minutes ago       2.07MB
+gdm                   latest              ed4a1dfd9269        4 minutes ago       2.2MB
 ```
